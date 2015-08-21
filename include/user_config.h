@@ -2,10 +2,10 @@
 #define __USER_CONFIG_H__
 
 #define USE_WIFI_MODE		STATIONAP_MODE
-#define WIFI_CLIENTSSID		"ELECTRIK"
-#define WIFI_CLIENTPASSWORD	"linkoln0150"
-#define WIFI_AP_NAME		"Kitchen"
-#define WIFI_AP_PASSWORD	"linkoln0150"
+#define WIFI_CLIENTSSID		"SSID"
+#define WIFI_CLIENTPASSWORD	"pass"
+#define WIFI_AP_NAME		"AP_SSID"
+#define WIFI_AP_PASSWORD	"AP_pass"
 #define PLATFORM_DEBUG		true
 
 #endif
